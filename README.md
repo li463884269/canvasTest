@@ -1,3 +1,2 @@
 # canvasTest
 测试小程序生成图片
-sdqaq23123112312131asda
